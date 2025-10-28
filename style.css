@@ -1,0 +1,12 @@
+#hero.py-5{
+    background: linear-gradient(#DEE2E6, #CED4DA, #ADB5BD);
+}
+
+#services.section.py-5.bg-light{
+    background: #495057;
+}
+
+.card.h-100.text-center.shadow-sm.p-4 {
+    margin-top: -2px;
+    margin-bottom: 2px;
+}
